@@ -9,4 +9,6 @@ this is the first commit from main branch
 * developing is still pending.
 * now development is completed.
 
+# squash
+* static development.
 
