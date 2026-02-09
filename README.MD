@@ -7,4 +7,6 @@ this is the first commit from main branch
 # rebase
 * rebase is another merge stratergy.
 * developing is still pending.
+* now development is completed.
+
 
