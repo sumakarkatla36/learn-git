@@ -11,4 +11,6 @@ this is the first commit from main branch
 
 # squash
 * static development.
+* adding more code
+
 
