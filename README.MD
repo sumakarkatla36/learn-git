@@ -16,3 +16,6 @@ this is the first commit from main branch
 * still adding more code
 * now it is completed.
 
+### conflict
+* this is the conflict code
+* this is again from developer-1 adding more code.
